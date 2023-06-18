@@ -39,8 +39,10 @@ class HomeScreen extends StatelessWidget {
                 borderRadius: BorderRadius.circular(1000),
                     gradient: RadialGradient(
                   colors: [
+                    Colors.blueAccent,
                     Colors.purpleAccent,
                     Colors.grey.shade300,
+
 
                   ]
               )
